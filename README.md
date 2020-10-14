@@ -1,1 +1,1 @@
-Files used for the calculations of the paper "A Methodology for CHF Prediction in VVER Rod Bundles."
+Files used in the calculations of the paper "A Methodology for CHF Prediction in VVER Rod Bundles."
